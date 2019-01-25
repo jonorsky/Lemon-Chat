@@ -6,6 +6,6 @@ Chat Application made from Spring Boot
 
 ## Screenshots
 
-![alt text](http://url/to/img.png)
+![alt text](https://i.imgur.com/om5AhLB.png)
 
-![alt text](http://url/to/img.png)
+![alt text](https://i.imgur.com/We78v5K.png)
