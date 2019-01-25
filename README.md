@@ -3,6 +3,7 @@ Chat Application made from Spring Boot
 
 ## Demo
 
+[Lemon Chat](https://lemonchat.herokuapp.com/)
 
 ## Screenshots
 
