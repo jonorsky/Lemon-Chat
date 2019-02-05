@@ -5,6 +5,8 @@ Chat Application made from Spring Boot
 
 [Lemon Chat](https://lemonchat.herokuapp.com/)
 
+## Steps
+
 ## Screenshots
 
 ![alt text](https://i.imgur.com/om5AhLB.png)
